@@ -1,6 +1,9 @@
 # MT-NMAP
 NMAP for Mikrotik RouterOS (arm / arm64)
 
+Inline-style: 
+![alt text](https://github.com/matthiaskonrath/mt-nmap/blob/master/mt-nmap.png "NMAP Mikrotik screenshot")
+
 
 ### Build and export the package (arm / arm64)
 ```
